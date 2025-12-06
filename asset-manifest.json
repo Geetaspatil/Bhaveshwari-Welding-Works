@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bhaveshwari-Welding-Works/static/css/main.3ba7d80e.css",
+    "main.js": "/Bhaveshwari-Welding-Works/static/js/main.d3c54317.js",
+    "index.html": "/Bhaveshwari-Welding-Works/index.html",
+    "main.3ba7d80e.css.map": "/Bhaveshwari-Welding-Works/static/css/main.3ba7d80e.css.map",
+    "main.d3c54317.js.map": "/Bhaveshwari-Welding-Works/static/js/main.d3c54317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba7d80e.css",
+    "static/js/main.d3c54317.js"
+  ]
+}
